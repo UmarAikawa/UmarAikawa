@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UmarAikawa
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently a Sofware developer with a federal government institution of mu home country.
+- 🌱 I’m currently a Sofware developer with a federal government institution of my home country.
 - 💞️ I’m looking to collaborate on mostly web-based software development with PHP, JavaScript, Python, 
 - I am reachable www.linkedin.com/in/ umar-ibrahim-aliyu-08095b103
